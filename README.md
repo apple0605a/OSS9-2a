@@ -1,2 +1,1 @@
-# OSS9-2a
-# kang.ju.yeong
+# OSS9-2a팀프로젝트 화이팅
